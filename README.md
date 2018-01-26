@@ -1,2 +1,3 @@
 # mtgbase
-Organize and sort mtg collection
+Organize and sort my mtg collection
+peace.
